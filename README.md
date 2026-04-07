@@ -209,13 +209,3 @@ model behavior**.
 -   Matplotlib
 -   Jupyter Notebook
 
-------------------------------------------------------------------------
-
-## 🎓 Best use cases
-
--   Medical AI research
--   Rare-event classification
--   Cancer detection pipelines
--   Imbalanced learning education
--   Data science portfolio projects
--   ML evaluation methodology
